@@ -23,19 +23,19 @@ namespace CSharpGame
                 switch (choose)
                 {
                     case 0:
-                        Console.WriteLine("-> New Game");
-                        Console.WriteLine("   Load Game");
-                        Console.WriteLine("   Quit Game");
+                        Console.WriteLine("-> 新遊戲");
+                        Console.WriteLine("   讀取遊戲");
+                        Console.WriteLine("   離開遊戲");
                         break;
                     case 1:
-                        Console.WriteLine("   New Game");
-                        Console.WriteLine("-> Load Game");
-                        Console.WriteLine("   Quit Game");
+                        Console.WriteLine("   新遊戲");
+                        Console.WriteLine("-> 讀取遊戲");
+                        Console.WriteLine("   離開遊戲");
                         break;
                     case 2:
-                        Console.WriteLine("   New Game");
-                        Console.WriteLine("   Load Game");
-                        Console.WriteLine("-> Quit Game");
+                        Console.WriteLine("   新遊戲");
+                        Console.WriteLine("   讀取遊戲");
+                        Console.WriteLine("-> 離開遊戲");
                         break;
                 }
 
