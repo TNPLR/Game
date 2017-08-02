@@ -1,0 +1,6 @@
+C:\Users\a\documents\visual studio 2017\Projects\CSharpGame\CSharpGame\bin\Debug\CSharpGame.exe.config
+C:\Users\a\documents\visual studio 2017\Projects\CSharpGame\CSharpGame\bin\Debug\CSharpGame.exe
+C:\Users\a\documents\visual studio 2017\Projects\CSharpGame\CSharpGame\bin\Debug\CSharpGame.pdb
+C:\Users\a\documents\visual studio 2017\Projects\CSharpGame\CSharpGame\obj\Debug\CSharpGame.csprojResolveAssemblyReference.cache
+C:\Users\a\documents\visual studio 2017\Projects\CSharpGame\CSharpGame\obj\Debug\CSharpGame.exe
+C:\Users\a\documents\visual studio 2017\Projects\CSharpGame\CSharpGame\obj\Debug\CSharpGame.pdb
